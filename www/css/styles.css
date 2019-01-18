@@ -13,11 +13,9 @@
     background-image: url(img/movie-theatre.jpg.size-custom-crop.1086x0.jpg);
     
 }
-
 .statusbar-overlay {
     background: #000000;
 }
-
 .list-block ul{
     background-color: rgba(55, 55, 55, 0.6);    
     color: white;
@@ -30,7 +28,9 @@
 .list-block li.media-item .item-media img, .list-block.media-list .item-media img{
     border: 1px solid black;
 }
-
 .list-block .item-after{
     color: white;
+}
+.list-block input[type=text]{
+    background-color: lightgray;
 }
